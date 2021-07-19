@@ -1,5 +1,5 @@
 #!/bin/bash
-for Fruit banana orange mango ; d
-echo Fruit Name = $Fruit
+for fruit in banana orange mango ; do
+echo Fruit Name = $fruit
 sleep 1
 done 
